@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetpackTaskManagerTut</string>
+    <string name="completed">All tasks completed</string>
+    <string name="nicew">Nice work!</string>
 </resources>
